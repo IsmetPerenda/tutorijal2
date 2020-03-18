@@ -1,0 +1,11 @@
+.root {
+    -fx-background-color: lightgreen;
+}
+.label {
+    -fx-font-size: 14;
+    -fx-text-fill: green;
+}
+.button {
+    -fx-background-color: yellow;
+
+}
